@@ -1,0 +1,58 @@
+body {
+    height: 900px;
+    background-color: black ;
+
+}
+
+header {
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+/* LOS COLORES */
+.bg-rojo {
+    background-color: red;
+}
+
+.bg-celeste {
+    background-color: skyblue;
+}
+
+.bg-morado {
+    background-color: slateblue;
+}
+
+.bg-salmon {
+    background-color: rgb(255, 92, 92);
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-naranja {
+    background-color: orange;
+}
+
+/*colores principales*/
+
+.bg-prusia {
+    background-color: #0B3954;
+}
+.bg-prusia-low {
+    background-color: #1e486173;
+}
+.bg-pine {
+    background-color: rgb(97, 152, 142);
+}
+
+.bg-ash-gray {
+    background-color: rgb(160, 178, 166);
+}
+
+.bg-yellow-red{
+    background-color: #FCBF49;
+}
+
+
